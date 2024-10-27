@@ -1,7 +1,4 @@
-Running: xsim.dir/sixteen_sipo_register_tb_behav/xsimk.exe -simmode gui -wdb sixteen_sipo_register_tb_behav.wdb -simrunnum 0 -socket 51089
+Running: xsim.dir/sixteen_sipo_register_tb_behav/xsimk.exe -simmode gui -wdb sixteen_sipo_register_tb_behav.wdb -simrunnum 0 -socket 51141
 Design successfully loaded
-Design Loading Memory Usage: 8752 KB (Peak: 8752 KB)
-Design Loading CPU Usage: 0 ms
-Simulation completed
-Simulation Memory Usage: 9300 KB (Peak: 9300 KB)
-Simulation CPU Usage: 0 ms
+Design Loading Memory Usage: 8076 KB (Peak: 8076 KB)
+Design Loading CPU Usage: 15 ms
